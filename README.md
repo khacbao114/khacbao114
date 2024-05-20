@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @khacbao114
-- 👀 I’m interested in Crypto field.
-- 🌱 I’m currently a Node and validator
+- 🌱 Trusted PoS ValidatorNode Provider
 - 💞️ I’m looking to collaborate on you!!!
-- 📫 How to reach me : X @sea39499240
+- 📫 How to reach me: khacbao114@gmail.com
+- Website: khacbaomedia.com
 
 <!---
 khacbao114/khacbao114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
